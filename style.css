@@ -2,7 +2,19 @@ body {
     background-color: black;
 }
 
+#zone {
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
 h1 {
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+h2 {
     position: relative;
     color: white;
     text-align: center;
@@ -10,7 +22,6 @@ h1 {
 
 #plate {
     position: relative;
-    
     width: 800px;
     height: 512px;
     box-sizing: border-box;
